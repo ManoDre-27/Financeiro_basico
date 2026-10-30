@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+api/.venv/
+__pycache__/
+*.pyc
+api/data/
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Logs / runtime
+*.log
